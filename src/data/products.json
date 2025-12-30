@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic White T-Shirt",
+      "price": 25,
+      "image": "/src/assets/T-shirt.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Blue Denim Jeans",
+      "price": 60,
+      "image": "/src/assets/Jeans.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "White Sneakers",
+      "price": 80,
+      "image": "/src/assets/Sneakers.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Black Hoodie",
+      "price": 45,
+      "image": "/src/assets/Hoodie.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Baseball Cap",
+      "price": 20,
+      "image": "/src/assets/Cap.jpeg"
+    }
+  ]
+}
